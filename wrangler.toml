@@ -6,4 +6,4 @@ workers_dev = true
 
 [env.production]
 zone_id = "432f1dbaf824bf1e573d886fa4e872a5"
-route = "TODO"
+route = "cdn.cakefree.cn/*"
