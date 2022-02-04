@@ -1,7 +1,7 @@
 name = "cf-image-proxy"
 type = "javascript"
 webpack_config = "webpack.config.js"
-account_id = "TODO"
+account_id = "daa8cdc9e1c3b6edab418d8ada42cf8a"
 workers_dev = true
 
 [env.production]
